@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default formatMoney;","map":{"version":3,"sources":["C:/Users/navdharn/Desktop/Advanced-React/sick-fits/frontend/lib/formatMoney.js"],"names":["formatMoney"],"mappings":"AAAA,eAAeA,WAAf","sourcesContent":["export default formatMoney"]},"metadata":{},"sourceType":"module"}
